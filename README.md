@@ -5,4 +5,4 @@ CraxsRAT is spyware that spies on any type of Android phone. It uses extremely s
 For more information on this, I invite you to go here
 https://www.blackhatfrench.com/malware
 
-https://i.postimg.cc/Ls0yhMYk/Craxsrat-7-6-By-Blackhatfrench.png
+![Craxsrat-7-6-By-Blackhatfrench](https://github.com/user-attachments/assets/7f27f4fa-8b15-453c-b625-9d263db6c18e)
